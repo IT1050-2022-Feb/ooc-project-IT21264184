@@ -1,3 +1,4 @@
+//contibutor - C.J Widanage - IT21244902
 #include<iostream>
 #include<string.h>
 #include "Event.h"
