@@ -1,4 +1,4 @@
-
+//contributor - W.A.I.A.Bandara - IT21270710
 
 #include <iostream>
 #include "Manager.h"
