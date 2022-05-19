@@ -1,17 +1,15 @@
-#pragma once
 //Contributor IT21288630 Kulathunga.R.G.G.P
 
+#pragma once
 #include "User.h"
 #include "Feedback.h"
 #define size 3
-
-
 
 class Admin : public User
 {
 private:
 	string adid;
-	Feedback* fed[size];
+	Feedback *fed[size];
 
 public:
 	Admin();

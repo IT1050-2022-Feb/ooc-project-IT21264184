@@ -1,7 +1,8 @@
 //Contributor IT21288630 Kulathunga.R.G.G.P
 
 #include "Admin.h"
-
+#include <iostream>
+using namespace std;
 
 Admin::Admin()
 {
@@ -26,7 +27,7 @@ void Admin::setAdid(string id)
 	adid = id;
 }
 
-void Admin::addFeedback(Feedback* f)
+void Admin::addFeedback(Feedback *f)
 {
 
 }
