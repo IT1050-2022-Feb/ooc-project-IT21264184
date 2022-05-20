@@ -52,6 +52,3 @@ Employee::~Employee(void)
 {
 	cout << "Employee deleted" << endl;
 }
-
-
-
