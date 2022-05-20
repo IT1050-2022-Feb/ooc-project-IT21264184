@@ -56,3 +56,4 @@ Manager::~Manager(){
 	cout << "Manager deleted!" << endl;
 }
 
+  

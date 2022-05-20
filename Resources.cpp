@@ -29,3 +29,4 @@ string Resources::getRname() {
 Resources::~Resources() {
 	cout << "Resource deleted" << endl;
 }
+   
