@@ -21,7 +21,7 @@ Admin::Admin(string id, string uname, string pass, int num, string mail)
 	phone = num;
 	email = mail;
 }
-
+ 
 void Admin::setAdid(string id)
 {
 	adid = id;

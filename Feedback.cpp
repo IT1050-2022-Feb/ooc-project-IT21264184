@@ -13,7 +13,7 @@ Feedback::Feedback(string id, string st)
 	fid = id;
 	status = st;
 }
-
+ 
 void Feedback::setFid(string id)
 {
 	fid = id;
