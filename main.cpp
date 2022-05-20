@@ -26,6 +26,7 @@ int main()
   Employee* em1 = new employee("e2", "4department");
   Employee* em1 = new employee("e3", "3department");
 
+
   
   Attendance* at1 = new attendance("a1", "11/03/2020", "7.30AM");
   Attendance* at1 = new attendance("a1", "20/05/2020", "6.30PM");
