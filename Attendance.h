@@ -22,6 +22,7 @@ class Attendance
 		int getTime;
 		
 		~Attendance();
-		
+
+
 };
  

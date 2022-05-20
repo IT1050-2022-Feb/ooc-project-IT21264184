@@ -24,6 +24,7 @@ void Attendance::setDate(int d)
 	Date = d;
 }
 
+
 void Attendance::setTime(int t)
 {
 	Time = t;
