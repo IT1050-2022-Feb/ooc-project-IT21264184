@@ -30,13 +30,13 @@ int main()
   Attendance* at1 = new attendance("a1", "11/03/2020", "7.30AM");
   Attendance* at1 = new attendance("a1", "20/05/2020", "6.30PM");
   Attendance* at1 = new attendance("a1", "27/07/2020", "7.30AM");
-  
+
   Feedback* fe1 = new Feedback("f1", "Good");
   Feedback* fe2 = new Feedback("f2", "Nice");
   Feedback* fe3 = new Feedback("f3", "Need improvement");
 
   Admin* ad1 = new Admin("a1", "Harry", "1234a", 0712354167, "harry@gmail.com");
-  Admin* ad2 = new Admin("a2", "Tobi", "4567b", 0712345671, "tobi@gmail.com");
+  Admin* ad2 = new Admin("a2", "Tobi", "4567b", 0712345671, "tobi@gmail.com"); 
 
   Event* eve1 = new Event("ev1" , "12/04/2020" , "9.00AM") ;
   Event* eve2 = new Event("ev2" ,"23/05/2020"  , "10.30AM");
