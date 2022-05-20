@@ -39,6 +39,7 @@ int main()
   Admin* ad1 = new Admin("a1", "Harry", "1234a", 0712354167, "harry@gmail.com");
   Admin* ad2 = new Admin("a2", "Tobi", "4567b", 0712345671, "tobi@gmail.com"); 
   Admin* ad3 = new Admin("a3", "Ethan", "8524c", 0714532116, "ethan@gmail.com"); 
+  
 
   Event* eve1 = new Event("ev1" , "12/04/2020" , "9.00AM") ;
   Event* eve2 = new Event("ev2" ,"23/05/2020"  , "10.30AM");
